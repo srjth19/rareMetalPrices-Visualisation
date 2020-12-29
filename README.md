@@ -10,5 +10,5 @@ https://medium.com/datadriveninvestor/time-series-animation-in-matplotlib-de0236
 ## Prerequisite
 Sign up to Quandl.com and obtain API key which is required in the python code to access the data.
 
-## A version of the animated line plot is avaiable at the following YouTube link:
+## A version of the animated line plot is available at the following YouTube link:
 https://www.youtube.com/watch?v=iAj509z1cCw
